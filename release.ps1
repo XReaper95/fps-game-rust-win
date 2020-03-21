@@ -1,0 +1,1 @@
+explorer .\target\release\fps-game.exe
